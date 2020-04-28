@@ -1,6 +1,11 @@
 # Autoencoders
 
+Autoencoder is an unsupervised artificial neural network that learns how to efficiently compress and encode data then learns how to reconstruct the data back from the reduced encoded representation (latent vector) to a representation that is as close to the original input as possible. It's major task is to perform dimensionality reduction.
+
 ### Variational autoencoder
+
+Variational Autoencoders are generative models that learn the mean and standard deviation from the data distribution in order to create a continuos latent vector. This helps in creating smooth images with easy interpolation
+
 - Dataset - MNIST 
 - Used Latent Vector dimension = 2, Hidden dimension = 512, learning rate = 0.001
 - Loss Function :- Binary Cross Entropy function + KL Divergence 
@@ -17,4 +22,6 @@
  There is an ambiguity between 4 and 9, 3 and 8, 5 and 6.
  
  ### Denoising Autoencoder
+ - Dataset - MNIST
+ - 
  
