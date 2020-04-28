@@ -12,7 +12,7 @@
  <img src = "Outputs/VAE.PNG">
 </br>
  
-  - Observations
+  - Observations </br>
  The model is able is to correctly produce 0,1,3,7 digts. </br>
  There is an ambiguity between 4 and 9, 3 and 8, 5 and 6.
  
