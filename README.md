@@ -39,3 +39,6 @@ CNN-DAE output
 </br>
  - 
  
+ - Observations
+ The MLP model produces better, celarer images but loses some pixels </br>
+ The CNN model produces blurry images and digits are not fully reconstructed
