@@ -13,8 +13,8 @@
 </br>
  
   - Observations
- The model is able is to correctly produce 0,1,3,7 digts.
- There is an ambiguity between 4 and 9, 3 and 8, 5 and 6
+ The model is able is to correctly produce 0,1,3,7 digts. </br>
+ There is an ambiguity between 4 and 9, 3 and 8, 5 and 6.
  
  ### Denoising Autoencoder
  
