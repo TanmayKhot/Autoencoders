@@ -22,6 +22,20 @@ Variational Autoencoders are generative models that learn the mean and standard 
  There is an ambiguity between 4 and 9, 3 and 8, 5 and 6.
  
  ### Denoising Autoencoder
- - Dataset - MNIST
+Denoising autoencoders attempt to address identity-function risk by randomly corrupting input (i.e. introducing noise) that the autoencoder must then reconstruct, or denoise.
+
+- Dataset - MNIST
+- Loss function - Mean squared error between the original image and reconstructed image
+- Training loss - 0.05
+
+MLP-DAE output
+
+<img src = "Outputs/MLPDAE.PNG">
+</br>
+
+CNN-DAE output
+
+<img src = "Outputs/ConvDAE.PNG">
+</br>
  - 
  
