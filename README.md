@@ -9,7 +9,7 @@
 
  Output:-
  
- <img src = "Output/VAE.PNG">
+ <img src = "Outputs/VAE.PNG">
 </br>
  
  
